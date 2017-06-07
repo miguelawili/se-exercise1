@@ -1,1 +1,1 @@
-#SE Exercise 1/2
+# se-exercise1
